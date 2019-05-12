@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Ricardo Carvalho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://rabc.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,9 +14,27 @@
     <item>
       <title>futures</title>
       <link>http://rabc.github.io/tags/futures/</link>
-      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
       
       <guid>http://rabc.github.io/tags/futures/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>promises</title>
+      <link>http://rabc.github.io/tags/promises/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://rabc.github.io/tags/promises/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>swift-nio</title>
+      <link>http://rabc.github.io/tags/swift-nio/</link>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://rabc.github.io/tags/swift-nio/</guid>
       <description></description>
     </item>
     
@@ -26,24 +44,6 @@
       <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>http://rabc.github.io/tags/init/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>promises</title>
-      <link>http://rabc.github.io/tags/promises/</link>
-      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://rabc.github.io/tags/promises/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>swift-nio</title>
-      <link>http://rabc.github.io/tags/swift-nio/</link>
-      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://rabc.github.io/tags/swift-nio/</guid>
       <description></description>
     </item>
     

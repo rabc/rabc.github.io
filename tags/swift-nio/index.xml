@@ -6,7 +6,7 @@
     <description>Recent content in swift-nio on Ricardo Carvalho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://rabc.github.io/tags/swift-nio/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Making a Promise to the Future</title>
       <link>http://rabc.github.io/posts/futures-and-promises/</link>
-      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 12 May 2019 00:00:00 +0000</pubDate>
       
       <guid>http://rabc.github.io/posts/futures-and-promises/</guid>
       <description>SwiftNIO is pretty much a low-level framework, where you need to understand concepts from the event-driven and network worlds, but ultimately what it is exposed in final frameworks like Vapor are its Futures and Promises events.
