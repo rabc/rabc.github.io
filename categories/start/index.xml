@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>start on Ricardo Carvalho</title>
+    <link>http://rabc.github.io/categories/start/</link>
+    <description>Recent content in start on Ricardo Carvalho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://rabc.github.io/categories/start/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Why this blog</title>
+      <link>http://rabc.github.io/posts/why-this-blog/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://rabc.github.io/posts/why-this-blog/</guid>
+      <description>Why this blog Humans are lazy by nature (there is a chance that someone is reading this post right now to avoid picking-up the next Jira ticket, for example). It is too easy to lock ourselves inside our knowledge silos and keep doing the same thing. Maybe you need a routine and predictability, maybe you think you do well this one thing.
+Whatever the reason, it is fine. Because at the same time, humans are curious by nature too.</description>
+    </item>
+    
+  </channel>
+</rss>

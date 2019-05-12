@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>futures on Ricardo Carvalho</title>
+    <link>http://rabc.github.io/tags/futures/</link>
+    <description>Recent content in futures on Ricardo Carvalho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 26 Apr 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://rabc.github.io/tags/futures/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Making a Promise to the Future</title>
+      <link>http://rabc.github.io/posts/futures-and-promises/</link>
+      <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://rabc.github.io/posts/futures-and-promises/</guid>
+      <description>SwiftNIO is pretty much a low-level framework, where you need to understand concepts from the event-driven and network worlds, but ultimately what it is exposed in final frameworks like Vapor are its Futures and Promises events.
+John Sundell has a good definition about it:
+ A Promise is something you make to someone else. In the Future you may choose to honor (resolve) that promise, or reject it.  Go read his post about it for a great introduction of the concept.</description>
+    </item>
+    
+  </channel>
+</rss>
