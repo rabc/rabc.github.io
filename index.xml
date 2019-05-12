@@ -23,6 +23,17 @@ John Sundell has a good definition about it:
     </item>
     
     <item>
+      <title>About</title>
+      <link>http://rabc.github.io/about/</link>
+      <pubDate>Sat, 04 May 2019 14:03:06 +0200</pubDate>
+      
+      <guid>http://rabc.github.io/about/</guid>
+      <description>Hello!
+I am Ricardo, a long-time developer who start with back-end, then moved to iOS (when that was still iPhone OS), then again to back-end and once again to iOS. Now trying to unify both worlds and to convince back-end developers to know more about mobile and mobile developers to know more back-end.
+Want to make suggestions of themes, corrections or discuss something? Do it in the repository of the blog.</description>
+    </item>
+    
+    <item>
       <title>Why this blog</title>
       <link>http://rabc.github.io/posts/why-this-blog/</link>
       <pubDate>Fri, 26 Apr 2019 00:00:00 +0000</pubDate>
