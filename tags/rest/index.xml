@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rest on Ricardo Carvalho</title>
+    <link>http://rabc.github.io/tags/rest/</link>
+    <description>Recent content in rest on Ricardo Carvalho</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 07 Jul 2019 13:07:34 +0200</lastBuildDate>
+    
+	<atom:link href="http://rabc.github.io/tags/rest/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Public-Facing Entities and Sharing the Protocol</title>
+      <link>http://rabc.github.io/posts/public-facing-entities-and-sharing/</link>
+      <pubDate>Sun, 07 Jul 2019 13:07:34 +0200</pubDate>
+      
+      <guid>http://rabc.github.io/posts/public-facing-entities-and-sharing/</guid>
+      <description>All the examples here are mode for Vapor 3, but could be applied anywhere else.
+Everytime you are creating an API you are creating a new contract that says: I promise to give all this agreed set of informations when requested, nothing less. It is important to adhere to this because you will give predictability to whoever is consuming the API, don&amp;rsquo;t making them assuming that something could not be present, therefore breaking its application.</description>
+    </item>
+    
+  </channel>
+</rss>

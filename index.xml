@@ -6,10 +6,20 @@
     <description>Recent content on Ricardo Carvalho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2019 13:07:34 +0200</lastBuildDate>
     
 	<atom:link href="http://rabc.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Public-Facing Entities and Sharing the Protocol</title>
+      <link>http://rabc.github.io/posts/public-facing-entities-and-sharing/</link>
+      <pubDate>Sun, 07 Jul 2019 13:07:34 +0200</pubDate>
+      
+      <guid>http://rabc.github.io/posts/public-facing-entities-and-sharing/</guid>
+      <description>All the examples here are mode for Vapor 3, but could be applied anywhere else.
+Everytime you are creating an API you are creating a new contract that says: I promise to give all this agreed set of informations when requested, nothing less. It is important to adhere to this because you will give predictability to whoever is consuming the API, don&amp;rsquo;t making them assuming that something could not be present, therefore breaking its application.</description>
+    </item>
     
     <item>
       <title>Making a Promise to the Future</title>

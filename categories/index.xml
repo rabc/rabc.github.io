@@ -6,10 +6,19 @@
     <description>Recent content in Categories on Ricardo Carvalho</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 12 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 07 Jul 2019 13:07:34 +0200</lastBuildDate>
     
 	<atom:link href="http://rabc.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>patterns</title>
+      <link>http://rabc.github.io/categories/patterns/</link>
+      <pubDate>Sun, 07 Jul 2019 13:07:34 +0200</pubDate>
+      
+      <guid>http://rabc.github.io/categories/patterns/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>swift-nio</title>
